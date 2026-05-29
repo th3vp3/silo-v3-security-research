@@ -1,0 +1,7 @@
+cache/
+out/
+lib/
+node_modules/
+.env
+.DS_Store
+Silo_V3_Security_Report/
